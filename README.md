@@ -43,6 +43,7 @@ sudo apt-get install python3
    ```
 3. install git from [the official git website](https://git-scm.com/downloads) (if not already installed)
 4. Place the `health_check.py` script in your desired directory.
+
 To get the health check script from the GitHub repository, use the following command:
 ```bash
 git clone https://github.com/PashaSamets/health-check.git
